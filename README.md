@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daoud Kashif, a Computer Science Student at George Mason University
 - 📖 I’m currently working on my Bachelor's in CS
-- 👨‍💻 I have experience in Java and Python
+- 👨‍💻 I have experience in Java, Python, and C
 
 
 <!---
